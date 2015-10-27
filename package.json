@@ -1,0 +1,8 @@
+{
+  "name": "lesson-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "xml2js": "latest"
+  }
+}
